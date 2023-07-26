@@ -1,0 +1,19 @@
+body {
+    background-color: #eaf2e3;
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+   }
+   .ej3{
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+   }
+   .ej4{
+    width: 850px;
+    margin: 0 auto;
+    border-radius: 15px;
+    border: 1px solid #ccc;
+    background-color: aquamarine;
+   }
